@@ -1,0 +1,6 @@
+{
+  "name": "Xaaji Salaad School",
+  "description": "Nidaamka Casriga ah ee Maamulka Supermarket-ka: Point of Sale (POS), Bakhaarka & Alaabta, Diiwaanka Iibka, Daymaha Macaamiisha, Shaqaalaha & Qasnajiyada, Iibiyeyaasha, Xisaabaadka, Kharashaadka, Live Chat Help, iyo AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

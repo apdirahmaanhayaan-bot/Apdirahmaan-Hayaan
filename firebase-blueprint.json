@@ -1,0 +1,29 @@
+{
+  "entities": {
+    "SupermarketData": {
+      "collection": "school_data",
+      "fields": {
+        "products": { "type": "array" },
+        "categories": { "type": "array" },
+        "sales": { "type": "array" },
+        "customers": { "type": "array" },
+        "debtPayments": { "type": "array" },
+        "suppliers": { "type": "array" },
+        "purchaseOrders": { "type": "array" },
+        "employees": { "type": "array" },
+        "attendance": { "type": "array" },
+        "expenses": { "type": "array" },
+        "transactions": { "type": "array" },
+        "accounts": { "type": "array" },
+        "fixedAssets": { "type": "array" },
+        "liabilities": { "type": "array" },
+        "equityDetails": { "type": "object" },
+        "currencySettings": { "type": "object" },
+        "messages": { "type": "array" },
+        "supermarketName": { "type": "string" },
+        "users": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      }
+    }
+  }
+}
